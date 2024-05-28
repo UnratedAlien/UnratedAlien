@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... el30thAlien@icloud.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... i live in yuma
+- ⚡ Fun fact: ... i live on another Planet
 
 <!---
 UnratedAlien/UnratedAlien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
